@@ -1,7 +1,7 @@
 # CS-GY 6513 Big-Data Project---311-Service-Requests
 ## Project Member (Group 17)
 
-Team Memebrs:-
+Team Members:-
 | Name          |    Net-Id     |
 | ------------- | ------------- |
 | Ritik Lnu     |       rl4017  |
